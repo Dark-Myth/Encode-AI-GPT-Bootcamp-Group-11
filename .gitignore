@@ -1,0 +1,20 @@
+.Python
+__pycache__/
+.vscode/
+
+# MAC/OSX system file
+.DS_Store
+
+# .idea
+.idea
+.idea/*
+
+# env file
+.env
+
+# virtualenv
+pyvenv.cfg
+bin/*
+lib/*
+include/*
+venv/*
