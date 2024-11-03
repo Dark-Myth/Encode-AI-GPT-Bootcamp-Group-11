@@ -1,3 +1,5 @@
+## Weekend Project
+
 To consolidate the knowledge acquired this week, students should complete the following project:
 
 1. Create a GitHub repository for your project
